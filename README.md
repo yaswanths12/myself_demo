@@ -3,4 +3,4 @@ This is my self intro Repository
 <br>
 Author - Yaswanth Prathipati
 <br>
-Thank you
+Thank you [Namaskar]
